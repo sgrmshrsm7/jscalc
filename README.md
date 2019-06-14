@@ -1,2 +1,2 @@
-# jscalc.github.io
+# jscalc
 Just a basic calculator
