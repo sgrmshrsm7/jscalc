@@ -4,3 +4,7 @@ function jscalc(result){
 	//form.display_result.value = form.display_result.value.toFixed(4);
 	//}
 }
+function backspace(){
+	var value = form.display_result.value;
+	form.display_result.value = value.substr(0, value.length - 1);
+}
