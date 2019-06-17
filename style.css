@@ -66,6 +66,20 @@ input[type=text] {
     line-height: 60px;
     margin: 0 25px;
 }
+
+::placeholder {
+  color: #ececec;
+  opacity: 0.5;
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+ color: red;
+}
+
+::-ms-input-placeholder { /* Microsoft Edge */
+ color: red;
+}
+
 .colored {
     background: #1F2430 !important;
     color: #ffffff !important;
