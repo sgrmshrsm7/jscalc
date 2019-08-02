@@ -1,4 +1,4 @@
-# jscalc
+# jscalc :pager:
 Just a basic js calculator
 
 
