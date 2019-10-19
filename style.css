@@ -84,6 +84,10 @@ input[type=text] {
  color: red;
 }
 
+html[data-theme='dartheme'] {
+    
+}
+
 .colored {
     background: rgb(146,254,157) !important;
     background: -moz-radial-gradient(circle, rgba(146,254,157,1) 0%, rgba(0,201,255,1) 100%) !important;
